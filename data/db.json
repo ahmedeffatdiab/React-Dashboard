@@ -1,0 +1,23 @@
+{
+  "myData": [
+    {
+      "product": "ahmed",
+      "price": 30
+    },
+    {
+      "id": "ad89",
+      "product": "shose",
+      "price": 30
+    },
+    {
+      "id": "c449",
+      "product": "shose",
+      "price": 30
+    },
+    {
+      "id": "0806",
+      "product": "shose",
+      "price": 30
+    }
+  ]
+}
